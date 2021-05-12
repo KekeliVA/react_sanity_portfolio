@@ -9,3 +9,5 @@
 ### NavBar
 * needs NavLink to be imported from react-router-dom
 * header > div > nav > NavLink, each navlink is a button
+* need to mess around with the styling of my name button, it wasn't lining up with the rest of the navbar like kapehe's
+* new div for socials
